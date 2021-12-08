@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @httmiqueias
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-httmiqueias/httmiqueias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Hi, I’m Miquéias Souza Regis, i am 20 years old. 
+- I’m interested in show and develop my programming skills on this platform.
+- I'm looking to collaborate on problem solving, developing algorithms, programs, codes, among others.
+- How to reach me ...
+-   📫 miqueiasregissouza@outlook.com or 📫 miqueias.regis@ee.ufgc.edu.br
+-   Linkedin: https://www.linkedin.com/in/miqu%C3%A9ias-regis-61663120a
+-   Instagram: https://www.instagram.com/htmiqueias_/
+-   Twitter: 
+-   Tel: +55 (083) 99121-7994 (Whatsapp) or +55 (083) 99329-4609
